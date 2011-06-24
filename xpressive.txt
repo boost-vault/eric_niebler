@@ -1,0 +1,4 @@
+
+The download for xpressive has been moved. You can now find xpressive.zip at:
+
+http://www.boost-consulting.com/vault/index.php?directory=Strings%20-%20Text%20Processing&

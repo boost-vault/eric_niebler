@@ -1,0 +1,4 @@
+
+The download for BOOST_FOREACH has been moved. You can now find foreach.zip at:
+
+http://www.boost-consulting.com/vault/index.php?directory=Algorithms&

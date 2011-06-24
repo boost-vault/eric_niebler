@@ -1,0 +1,4 @@
+
+The download for range_ex has been moved. You can now find range_ex.zip at:
+
+http://www.boost-consulting.com/vault/index.php?directory=Algorithms&
